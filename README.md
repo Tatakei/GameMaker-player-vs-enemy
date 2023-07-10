@@ -15,3 +15,5 @@
         #       General Information
         The Enemies (Red Squares) have 5 HP, if hit by a bullet (white circles) they lose 1 HP, which means they take 5 bullet hits to die.
         The file HAS to be downloaded and opened in GameMaker. https://gamemaker.io/en/download
+
+#        If there's any Questions, feel free to DM me on Discord (Tatakei) or Instagram
